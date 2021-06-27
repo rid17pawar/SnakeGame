@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1624708756 source:c:\users\riddhi\documents\codeblocks\snakegame\src\snake.cpp
+	"Snake.h"
+
+1624708018 c:\users\riddhi\documents\codeblocks\snakegame\include\snake.h
+	<windows.h>
+	<vector>
+
+1624710309 source:c:\users\riddhi\documents\codeblocks\snakegame\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<vector>
+	"Snake.h"
+	"Food.h"
+
+1624701864 c:\users\riddhi\documents\codeblocks\snakegame\include\food.h
+	<windows.h>
+	<cstdlib>
+
+1624710041 source:c:\users\riddhi\documents\codeblocks\snakegame\src\food.cpp
+	"Food.h"
+
+1624710309 source:c:\users\riddhi\documents\mydata\viit\sem3\fdsl\snakegame\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<vector>
+	"Snake.h"
+	"Food.h"
+
+1624708018 c:\users\riddhi\documents\mydata\viit\sem3\fdsl\snakegame\include\snake.h
+	<windows.h>
+	<vector>
+
+1624701864 c:\users\riddhi\documents\mydata\viit\sem3\fdsl\snakegame\include\food.h
+	<windows.h>
+	<cstdlib>
+
+1624767554 source:c:\users\riddhi\documents\mydata\viit\sem3\fdsl\snakegame\src\food.cpp
+	"Food.h"
+
+1624708756 source:c:\users\riddhi\documents\mydata\viit\sem3\fdsl\snakegame\src\snake.cpp
+	"Snake.h"
+
